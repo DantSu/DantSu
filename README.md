@@ -9,9 +9,9 @@ For over 15 years, I have specialized in business application development.
 
 ### My open-source projects :
 
-- [![](https://jitpack.io/v/DantSu/ESCPOS-ThermalPrinter-Android/month.svg) An Android driver for ESC POS thermal printers](https://github.com/DantSu/ESCPOS-ThermalPrinter-Android)
-- [![](https://img.shields.io/packagist/dt/DantSu/php-osm-static-api.svg) A PHP library to get static image of OpenStreetMap](https://github.com/DantSu/php-osm-static-api)
-- [![](https://img.shields.io/packagist/dt/DantSu/php-image-editor.svg) A PHP library to edit GD images](https://github.com/DantSu/php-image-editor)
+- [An Android driver for ESC POS thermal printers ![](https://jitpack.io/v/DantSu/ESCPOS-ThermalPrinter-Android/month.svg)](https://github.com/DantSu/ESCPOS-ThermalPrinter-Android)
+- [A PHP library to get static image of OpenStreetMap ![](https://img.shields.io/packagist/dt/DantSu/php-osm-static-api.svg)](https://github.com/DantSu/php-osm-static-api)
+- [A PHP library to edit GD images ![](https://img.shields.io/packagist/dt/DantSu/php-image-editor.svg)](https://github.com/DantSu/php-image-editor)
 
 ### Me on Github
 
