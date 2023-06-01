@@ -1,4 +1,4 @@
-## Hi, My name is Franck Alary and i'm a web and mobile app developer 👋
+## Hi,my name is Franck Alary and i'm a web and mobile app developer 👋
 
 For over 15 years, I have specialized in business application development.
 
