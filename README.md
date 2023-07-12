@@ -16,3 +16,6 @@ For over 15 years, I have specialized in business application development.
 ### Me on Github
 
 ![Metrics](https://metrics.lecoq.io/dantsu?template=classic&followup=1&config.animated=true)
+
+![Github Readme](https://github-readme-stats.vercel.app/api?username=DantSu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Github Readme](https://github-readme-stats.vercel.app/api/top-langs/?username=DantSu&layout=compact&langs_count=16&theme=dracula)
