@@ -13,7 +13,3 @@ For over 15 years, I have specialized in business application development.
 - [A PHP library to get static image of OpenStreetMap ![](https://img.shields.io/packagist/dt/DantSu/php-osm-static-api.svg)](https://github.com/DantSu/php-osm-static-api)
 - [A PHP library to edit GD images ![](https://img.shields.io/packagist/dt/DantSu/php-image-editor.svg)](https://github.com/DantSu/php-image-editor)
 - [TelmiOS - An OS Story teller for Miyoo Mini +](https://github.com/DantSu/Telmi-story-teller)
-
-### Me on Github
-
-![Metrics](https://metrics.lecoq.io/dantsu?template=classic&followup=1&config.animated=true)
